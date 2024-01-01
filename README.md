@@ -6,4 +6,4 @@ Scale means a couple of things. Firstly, multiple platforms are usually at play.
 
 SaaSREV's primary objective  is revenue accounting in accordance with GAAP and ASC 606. Alternative solutions are bundled with ERP systems, and advanced revenue management is an additional (expensive) implementation. No ERP solution does it well. SaaSREV is a next generation solution built on the MoleculerJS framework that enables the large scale enterprise to handle revenue management in a very tailored way using a modern software architecture.
 
-Large scale enterprise companies use back-end ipaas automation frameworks such as tray.io, boomi, or informatica. Your most sensitive customer and financial data sits within your own systems, which is where SaaSREV sits perfectly.
+Large scale enterprise companies use back-end ipaas automation frameworks such as tray.io, boomi, or informatica. Your most sensitive customer and financial data sit within your own systems, which is where a headeless revenue management system sits perfectly.
