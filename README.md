@@ -1,4 +1,4 @@
-[![SaaREV Logo](http://saasrev.com/saasrev.png)]
+![SaaREV Logo](http://saasrev.com/saasrev.png)
 
 # saasrev
 
