@@ -1,7 +1,5 @@
 ![SaaREV Logo](http://saasrev.com/saasrev.png)
 
-# saasrev
-
 SaaSREV CQBR (Configure, Quote, Book, Recognize) is a headless revenue management system designed with massive scale in mind. 
 
 Scale means a couple of things. Firstly, multiple platforms are usually at play. From CRMs, to different order fulfillment APIs crossing different architectures and server clouds with different data protection requirements. Secondly, your system should be able to scale to millions or billions of revenue transactions.  SaaREV CQBR is a distributed serverless platform that can accomodate global enterprise requirements.
